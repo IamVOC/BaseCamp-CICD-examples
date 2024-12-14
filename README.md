@@ -8,5 +8,7 @@ CI/CD пайплайны на основе Github Actions
 
 В некоторых пайплайнах есть строчки `${{ vars.НАЗВАНИЕ_ПЕРЕМЕННОЙ }}` и `${{ secrets.НАЗВАНИЕ_ПЕРЕМЕННОЙ }}`, которые вы можете сконфигурировать в настройках репозитория `Settings > Secrets and variables > Actions`
 
+Здесь использованы лишь основные инструменты построения пайплайна на Github Actions. Все возможности вы можете найти на https://docs.github.com/en/actions/writing-workflows/workflow-syntax-for-github-actions
+
 ## Автор
 Божко Даниил Константинович - Студент кафедры ПМиФИ
